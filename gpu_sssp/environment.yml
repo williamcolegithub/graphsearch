@@ -1,13 +1,9 @@
 name: graphblas
 channels:
-  - rapidsai
   - conda-forge
-  - nvidia
+  - default
 dependencies:
   - python=3.10
-  - rapids=25.02
-  - cuda-cudart
-  - cuda-version=12
   - scipy
   - numba
   - matplotlib
@@ -15,6 +11,6 @@ dependencies:
   - pandas
   - rdkit
   - pip
+  - llvm-openmp
   - pip:
     - python-graphblas
-    - sparse
