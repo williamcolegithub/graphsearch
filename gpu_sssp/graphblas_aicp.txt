@@ -1,0 +1,2 @@
+slurmstepd: error: *** JOB 2366248 ON bigmem02 CANCELLED AT 2025-03-27T10:45:30 ***
+slurmstepd: error: *** JOB 2366247 ON bigmem01 CANCELLED AT 2025-03-27T15:21:38 ***
