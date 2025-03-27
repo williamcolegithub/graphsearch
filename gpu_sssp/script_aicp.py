@@ -164,7 +164,7 @@ def print_path_details(path_info: Dict):
         print()
 
 if __name__ == "__main__":
-    graph_path = "/Users/colewt/Documents/aspire-aicp-services/graphsearch/aicp.pkl"
+    graph_path = "/home/colewt/graphsearch/gpu_sssp/aicp.pkl"
     source_node = "QTBSBXVTEAMEQO-UHFFFAOYSA-N"
     target_node = "ASPIRE-9176362867855768187"
 

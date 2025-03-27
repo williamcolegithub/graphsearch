@@ -162,7 +162,8 @@ def main():
         {"molecules": 100, "reactions": 300},
         {"molecules": 500, "reactions": 1500},
         {"molecules": 1000, "reactions": 5000},
-        {"molecules": 5000, "reactions": 20000}
+        {"molecules": 5000, "reactions": 20000},
+        {"molecules":2528685, "reactions": 57851490}
     ]
     
     # Find the index of the smallest case

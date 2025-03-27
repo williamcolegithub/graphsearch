@@ -1,0 +1,433 @@
+GraphBLAS available
+GraphBLAS version: 2025.2.0
+
+Testing 200 molecules, 100 reactions
+GraphBLAS: Generated graph with 299 edges (including chain)
+Path from 31 to 181
+GraphBLAS: Matrix has 299 edges, size: 200x200
+GraphBLAS: Starting from 31, targeting 181
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 1 non-zero elements
+GraphBLAS: Next frontier initial size: 1
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 1
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 1, Visited size: 2
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 1 non-zero elements
+GraphBLAS: Next frontier initial size: 1
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 1
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 1, Visited size: 3
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 1 non-zero elements
+GraphBLAS: Next frontier initial size: 1
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 1
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 1, Visited size: 4
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 2 non-zero elements
+GraphBLAS: Next frontier initial size: 2
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 2
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 2, Visited size: 6
+GraphBLAS: Distance level 5
+GraphBLAS: VXM result has 2 non-zero elements
+GraphBLAS: Next frontier initial size: 2
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 2
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 2, Visited size: 8
+GraphBLAS: Distance level 6
+GraphBLAS: VXM result has 2 non-zero elements
+GraphBLAS: Next frontier initial size: 2
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 2
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 2, Visited size: 10
+GraphBLAS: Distance level 7
+GraphBLAS: VXM result has 4 non-zero elements
+GraphBLAS: Next frontier initial size: 4
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 4
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 4, Visited size: 14
+GraphBLAS: Distance level 8
+GraphBLAS: VXM result has 7 non-zero elements
+GraphBLAS: Next frontier initial size: 7
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 7
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 7, Visited size: 21
+GraphBLAS: Distance level 9
+GraphBLAS: VXM result has 12 non-zero elements
+GraphBLAS: Next frontier initial size: 12
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 12
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 12, Visited size: 33
+GraphBLAS: Distance level 10
+GraphBLAS: VXM result has 20 non-zero elements
+GraphBLAS: Next frontier initial size: 20
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 20
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 20, Visited size: 50
+GraphBLAS: Distance level 11
+GraphBLAS: VXM result has 33 non-zero elements
+GraphBLAS: Next frontier initial size: 33
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 33
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 33, Visited size: 75
+GraphBLAS: Distance level 12
+GraphBLAS: VXM result has 45 non-zero elements
+GraphBLAS: Next frontier initial size: 45
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 45
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 45, Visited size: 102
+GraphBLAS: Distance level 13
+GraphBLAS: VXM result has 61 non-zero elements
+GraphBLAS: Next frontier initial size: 61
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 61
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 61, Visited size: 125
+GraphBLAS: Distance level 14
+GraphBLAS: VXM result has 78 non-zero elements
+GraphBLAS: Next frontier initial size: 78
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 78
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 78, Visited size: 148
+GraphBLAS: Distance level 15
+GraphBLAS: VXM result has 99 non-zero elements
+GraphBLAS: Next frontier initial size: 99
+GraphBLAS: Mask initial size: 200
+GraphBLAS: Mask after excluding visited: 200
+GraphBLAS: Next frontier after masking: 99
+GraphBLAS: Found 181 at distance 15
+GraphBLAS: Predecessors updated, non-negative values: 200
+GraphBLAS: Frontier size: 99, Visited size: 167
+GraphBLAS: Reachable nodes from 31: 167
+GraphBLAS: Building path, starting at 181
+GraphBLAS: Current: 181, Next: 180
+GraphBLAS: Current: 180, Next: 179
+GraphBLAS: Current: 179, Next: 178
+GraphBLAS: Current: 178, Next: 177
+GraphBLAS: Current: 177, Next: 176
+GraphBLAS: Current: 176, Next: 175
+GraphBLAS: Current: 175, Next: 174
+GraphBLAS: Current: 174, Next: 14
+GraphBLAS: Current: 14, Next: 63
+GraphBLAS: Current: 63, Next: 62
+GraphBLAS: Current: 62, Next: 61
+GraphBLAS: Current: 61, Next: 34
+GraphBLAS: Current: 34, Next: 33
+GraphBLAS: Current: 33, Next: 32
+GraphBLAS: Current: 32, Next: 31
+GraphBLAS: Path: [31, 32, 33, 34, 61, 62, 63, 14, 174, 175, 176, 177, 178, 179, 180, 181]
+GraphBLAS: Took 0.0121s
+Distance: 15 hops, Time: 0.0121s
+
+Testing 100 molecules, 300 reactions
+GraphBLAS: Generated graph with 388 edges (including chain)
+Path from 2 to 8
+GraphBLAS: Matrix has 388 edges, size: 100x100
+GraphBLAS: Starting from 2, targeting 8
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 7 non-zero elements
+GraphBLAS: Next frontier initial size: 7
+GraphBLAS: Mask initial size: 100
+GraphBLAS: Mask after excluding visited: 100
+GraphBLAS: Next frontier after masking: 7
+GraphBLAS: Predecessors updated, non-negative values: 100
+GraphBLAS: Frontier size: 7, Visited size: 8
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 24 non-zero elements
+GraphBLAS: Next frontier initial size: 24
+GraphBLAS: Mask initial size: 100
+GraphBLAS: Mask after excluding visited: 100
+GraphBLAS: Next frontier after masking: 24
+GraphBLAS: Predecessors updated, non-negative values: 100
+GraphBLAS: Frontier size: 24, Visited size: 31
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 65 non-zero elements
+GraphBLAS: Next frontier initial size: 65
+GraphBLAS: Mask initial size: 100
+GraphBLAS: Mask after excluding visited: 100
+GraphBLAS: Next frontier after masking: 65
+GraphBLAS: Predecessors updated, non-negative values: 100
+GraphBLAS: Frontier size: 65, Visited size: 77
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 92 non-zero elements
+GraphBLAS: Next frontier initial size: 92
+GraphBLAS: Mask initial size: 100
+GraphBLAS: Mask after excluding visited: 100
+GraphBLAS: Next frontier after masking: 92
+GraphBLAS: Found 8 at distance 4
+GraphBLAS: Predecessors updated, non-negative values: 100
+GraphBLAS: Frontier size: 92, Visited size: 97
+GraphBLAS: Reachable nodes from 2: 97
+GraphBLAS: Building path, starting at 8
+GraphBLAS: Current: 8, Next: 7
+GraphBLAS: Current: 7, Next: 20
+GraphBLAS: Current: 20, Next: 3
+GraphBLAS: Current: 3, Next: 2
+GraphBLAS: Path: [2, 3, 20, 7, 8]
+GraphBLAS: Took 0.0024s
+GraphBLAS: Visualizing graph with 388 edges
+GraphBLAS: Graph saved to: /home/colewt/graphsearch/gpu_sssp/bfs_path_2_to_8_100_molecules.png
+Distance: 4 hops, Time: 0.0024s
+
+Testing 500 molecules, 1500 reactions
+GraphBLAS: Generated graph with 1991 edges (including chain)
+Path from 112 to 416
+GraphBLAS: Matrix has 1991 edges, size: 500x500
+GraphBLAS: Starting from 112, targeting 416
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 8 non-zero elements
+GraphBLAS: Next frontier initial size: 8
+GraphBLAS: Mask initial size: 500
+GraphBLAS: Mask after excluding visited: 500
+GraphBLAS: Next frontier after masking: 8
+GraphBLAS: Predecessors updated, non-negative values: 500
+GraphBLAS: Frontier size: 8, Visited size: 9
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 29 non-zero elements
+GraphBLAS: Next frontier initial size: 29
+GraphBLAS: Mask initial size: 500
+GraphBLAS: Mask after excluding visited: 500
+GraphBLAS: Next frontier after masking: 29
+GraphBLAS: Predecessors updated, non-negative values: 500
+GraphBLAS: Frontier size: 29, Visited size: 37
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 100 non-zero elements
+GraphBLAS: Next frontier initial size: 100
+GraphBLAS: Mask initial size: 500
+GraphBLAS: Mask after excluding visited: 500
+GraphBLAS: Next frontier after masking: 100
+GraphBLAS: Predecessors updated, non-negative values: 500
+GraphBLAS: Frontier size: 100, Visited size: 123
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 296 non-zero elements
+GraphBLAS: Next frontier initial size: 296
+GraphBLAS: Mask initial size: 500
+GraphBLAS: Mask after excluding visited: 500
+GraphBLAS: Next frontier after masking: 296
+GraphBLAS: Found 416 at distance 4
+GraphBLAS: Predecessors updated, non-negative values: 500
+GraphBLAS: Frontier size: 296, Visited size: 330
+GraphBLAS: Reachable nodes from 112: 330
+GraphBLAS: Building path, starting at 416
+GraphBLAS: Current: 416, Next: 415
+GraphBLAS: Current: 415, Next: 214
+GraphBLAS: Current: 214, Next: 303
+GraphBLAS: Current: 303, Next: 112
+GraphBLAS: Path: [112, 303, 214, 415, 416]
+GraphBLAS: Took 0.0032s
+Distance: 4 hops, Time: 0.0032s
+
+Testing 1000 molecules, 5000 reactions
+GraphBLAS: Generated graph with 5962 edges (including chain)
+Path from 185 to 772
+GraphBLAS: Matrix has 5962 edges, size: 1000x1000
+GraphBLAS: Starting from 185, targeting 772
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 4 non-zero elements
+GraphBLAS: Next frontier initial size: 4
+GraphBLAS: Mask initial size: 1000
+GraphBLAS: Mask after excluding visited: 1000
+GraphBLAS: Next frontier after masking: 4
+GraphBLAS: Predecessors updated, non-negative values: 1000
+GraphBLAS: Frontier size: 4, Visited size: 5
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 20 non-zero elements
+GraphBLAS: Next frontier initial size: 20
+GraphBLAS: Mask initial size: 1000
+GraphBLAS: Mask after excluding visited: 1000
+GraphBLAS: Next frontier after masking: 20
+GraphBLAS: Predecessors updated, non-negative values: 1000
+GraphBLAS: Frontier size: 20, Visited size: 25
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 118 non-zero elements
+GraphBLAS: Next frontier initial size: 118
+GraphBLAS: Mask initial size: 1000
+GraphBLAS: Mask after excluding visited: 1000
+GraphBLAS: Next frontier after masking: 118
+GraphBLAS: Predecessors updated, non-negative values: 1000
+GraphBLAS: Frontier size: 118, Visited size: 141
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 511 non-zero elements
+GraphBLAS: Next frontier initial size: 511
+GraphBLAS: Mask initial size: 1000
+GraphBLAS: Mask after excluding visited: 1000
+GraphBLAS: Next frontier after masking: 511
+GraphBLAS: Found 772 at distance 4
+GraphBLAS: Predecessors updated, non-negative values: 1000
+GraphBLAS: Frontier size: 511, Visited size: 580
+GraphBLAS: Reachable nodes from 185: 580
+GraphBLAS: Building path, starting at 772
+GraphBLAS: Current: 772, Next: 802
+GraphBLAS: Current: 802, Next: 187
+GraphBLAS: Current: 187, Next: 186
+GraphBLAS: Current: 186, Next: 185
+GraphBLAS: Path: [185, 186, 187, 802, 772]
+GraphBLAS: Took 0.0034s
+Distance: 4 hops, Time: 0.0034s
+
+Testing 5000 molecules, 20000 reactions
+GraphBLAS: Generated graph with 24976 edges (including chain)
+Path from 287 to 4266
+GraphBLAS: Matrix has 24976 edges, size: 5000x5000
+GraphBLAS: Starting from 287, targeting 4266
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 5 non-zero elements
+GraphBLAS: Next frontier initial size: 5
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 5
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 5, Visited size: 6
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 21 non-zero elements
+GraphBLAS: Next frontier initial size: 21
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 21
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 21, Visited size: 27
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 115 non-zero elements
+GraphBLAS: Next frontier initial size: 115
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 115
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 115, Visited size: 141
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 529 non-zero elements
+GraphBLAS: Next frontier initial size: 529
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 529
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 529, Visited size: 650
+GraphBLAS: Distance level 5
+GraphBLAS: VXM result has 2019 non-zero elements
+GraphBLAS: Next frontier initial size: 2019
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 2019
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 2019, Visited size: 2369
+GraphBLAS: Distance level 6
+GraphBLAS: VXM result has 4418 non-zero elements
+GraphBLAS: Next frontier initial size: 4418
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 4418
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 4418, Visited size: 4626
+GraphBLAS: Distance level 7
+GraphBLAS: VXM result has 4977 non-zero elements
+GraphBLAS: Next frontier initial size: 4977
+GraphBLAS: Mask initial size: 5000
+GraphBLAS: Mask after excluding visited: 5000
+GraphBLAS: Next frontier after masking: 4977
+GraphBLAS: Found 4266 at distance 7
+GraphBLAS: Predecessors updated, non-negative values: 5000
+GraphBLAS: Frontier size: 4977, Visited size: 4987
+GraphBLAS: Reachable nodes from 287: 4987
+GraphBLAS: Building path, starting at 4266
+GraphBLAS: Current: 4266, Next: 2643
+GraphBLAS: Current: 2643, Next: 1766
+GraphBLAS: Current: 1766, Next: 1168
+GraphBLAS: Current: 1168, Next: 956
+GraphBLAS: Current: 956, Next: 1552
+GraphBLAS: Current: 1552, Next: 3731
+GraphBLAS: Current: 3731, Next: 287
+GraphBLAS: Path: [287, 3731, 1552, 956, 1168, 1766, 2643, 4266]
+GraphBLAS: Took 0.0088s
+Distance: 7 hops, Time: 0.0088s
+
+Testing 2528685 molecules, 57851490 reactions
+GraphBLAS: Generated graph with 60379877 edges (including chain)
+Path from 162835 to 2427415
+GraphBLAS: Matrix has 60379877 edges, size: 2528685x2528685
+GraphBLAS: Starting from 162835, targeting 2427415
+GraphBLAS: Initial frontier size: 1, visited size: 1
+GraphBLAS: Distance level 1
+GraphBLAS: VXM result has 25 non-zero elements
+GraphBLAS: Next frontier initial size: 25
+GraphBLAS: Mask initial size: 2528685
+GraphBLAS: Mask after excluding visited: 2528685
+GraphBLAS: Next frontier after masking: 25
+GraphBLAS: Predecessors updated, non-negative values: 2528685
+GraphBLAS: Frontier size: 25, Visited size: 26
+GraphBLAS: Distance level 2
+GraphBLAS: VXM result has 622 non-zero elements
+GraphBLAS: Next frontier initial size: 622
+GraphBLAS: Mask initial size: 2528685
+GraphBLAS: Mask after excluding visited: 2528685
+GraphBLAS: Next frontier after masking: 622
+GraphBLAS: Predecessors updated, non-negative values: 2528685
+GraphBLAS: Frontier size: 622, Visited size: 648
+GraphBLAS: Distance level 3
+GraphBLAS: VXM result has 14874 non-zero elements
+GraphBLAS: Next frontier initial size: 14874
+GraphBLAS: Mask initial size: 2528685
+GraphBLAS: Mask after excluding visited: 2528685
+GraphBLAS: Next frontier after masking: 14874
+GraphBLAS: Predecessors updated, non-negative values: 2528685
+GraphBLAS: Frontier size: 14874, Visited size: 15520
+GraphBLAS: Distance level 4
+GraphBLAS: VXM result has 333102 non-zero elements
+GraphBLAS: Next frontier initial size: 333102
+GraphBLAS: Mask initial size: 2528685
+GraphBLAS: Mask after excluding visited: 2528685
+GraphBLAS: Next frontier after masking: 333102
+GraphBLAS: Predecessors updated, non-negative values: 2528685
+GraphBLAS: Frontier size: 333102, Visited size: 346583
+GraphBLAS: Distance level 5
+GraphBLAS: VXM result has 2420696 non-zero elements
+GraphBLAS: Next frontier initial size: 2420696
+GraphBLAS: Mask initial size: 2528685
+GraphBLAS: Mask after excluding visited: 2528685
+GraphBLAS: Next frontier after masking: 2420696
+GraphBLAS: Found 2427415 at distance 5
+GraphBLAS: Predecessors updated, non-negative values: 2528685
+GraphBLAS: Frontier size: 2420696, Visited size: 2433744
+GraphBLAS: Reachable nodes from 162835: 2433744
+GraphBLAS: Building path, starting at 2427415
+GraphBLAS: Current: 2427415, Next: 1321086
+GraphBLAS: Current: 1321086, Next: 1321085
+GraphBLAS: Current: 1321085, Next: 662256
+GraphBLAS: Current: 662256, Next: 162836
+GraphBLAS: Current: 162836, Next: 162835
+GraphBLAS: Path: [162835, 162836, 662256, 1321085, 1321086, 2427415]
+GraphBLAS: Took 4.0917s
+Distance: 5 hops, Time: 4.0917s
