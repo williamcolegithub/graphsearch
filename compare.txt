@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 2366833 ON bigmem01 CANCELLED AT 2025-03-27T15:38:33 ***

@@ -1,0 +1,19 @@
+Graph loaded successfully. Nodes: 2528685, Edges: 5785149
+
+Finding shortest path from QTBSBXVTEAMEQO-UHFFFAOYSA-N to ASPIRE-9176362867855768187...
+
+Shortest path found (length: 1):
+Path: QTBSBXVTEAMEQO-UHFFFAOYSA-N -> ASPIRE-9176362867855768187
+
+Detailed path:
+Step 0:
+  Type: Substance
+  ID: QTBSBXVTEAMEQO-UHFFFAOYSA-N
+  Properties: {'canonical_smiles': 'STG3TPu1AXBZkcp5RqRviaDhM5y3AJWiBH7ZPjIe0NayOH8=', 'inchikey': 'QTBSBXVTEAMEQO-UHFFFAOYSA-N', 'is_in_aicp': True, 'is_in_savi_130k': True, 'is_in_uspto_full': True, 'node_type': 'substance', 'uuid': 'substance_6eaa93d7979867a236e4c971e93384a7ba5aa6426b99a1967c1c44f01ecf2456'}
+  Relationship to next: {'edge_label': 'QTBSBXVTEAMEQO-UHFFFAOYSA-N|ASPIRE-9176362867855768187', 'edge_type': 'reagent_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'reagent_of_7f3e4e965bfebe6b00ad369773e7aded5185fd70efe9dc9bddf9c0c5407ff281'}
+
+Step 1:
+  Type: Reaction
+  ID: ASPIRE-9176362867855768187
+  Properties: {'is_balanced': False, 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'Reaction', 'rxid': 'ASPIRE-9176362867855768187', 'rxsmiles': 'AdNvnIye+LgqKNt55SoQbYy0fgc4wpOGiXCxTi37POfMdBByF++dNRjnS3wLN0Spqa7XjzipfhzW7JT30lkcvwHj2riO6zyHsmKO029RYAGp6vht3D0jtx/PHRUJeLS7/sLM7Rmckh3e3eCOC6az7bI7T0jfQKU+6YxKpivPZki1c4CEMldAxHuGJ33xggv+otKOwPGvxPKVE+eqtM9UxM03tbs8YQ8LRPBQSyHPabRqKiYdlaj1bCDd5+Q+2WSLCJ/fPjX4YK5Cr6deQUHE6ntyZogSRyrQEVQIJN8i9vbaw5xLdZI+QSrCsfKTmJqoSYJKmDy8KEFdb33/LoZirAFM/hj8uFAqXCRcnsriP1evg8e26Lw1u3ckuql+j7w0CpcQ378rDarI6XMV3r8X4htr9/PdI1KBLve9HEAOpfZRhjAGAcOi8G15IoWf0WVHGO7zHAySmSLzzWs//rTGCKckBfSjnU49prN2jcEjISUxy4A95fF7l582lnA6Oe/QMwp1mo7larIATOFw8Rli3G0L7HGKhaD9BoiVjysUM/85n+d5hXdb', 'uuid': 'reaction_7f4532a564f8ac6a97b2057bb5ada66ae3f0659adfa60603724a6ff7ff4bb38e', 'yield_predicted': 75.077, 'yield_score': 2.0}
+

@@ -7,12 +7,12 @@ import networkx as nx
 import os
 
 try:
-    import graphblas as gb
-    from graphblas import Vector, Matrix, semiring
+    import graphsearch.graphblas_straight as gb
+    from graphsearch.graphblas_straight import Vector, Matrix, semiring
     HAS_GRAPHBLAS = True
     print("GraphBLAS available")
-    import graphblas
-    print(f"GraphBLAS version: {graphblas.__version__}")
+    import graphsearch.graphblas_straight as graphblas_straight
+    print(f"GraphBLAS version: {graphblas_straight.__version__}")
 except ImportError:
     HAS_GRAPHBLAS = False
     print("GraphBLAS not available")

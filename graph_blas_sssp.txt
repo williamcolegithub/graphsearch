@@ -1,0 +1,95 @@
+Starting memory logging to memory_usage_2367120.log
+Loading graph from /home/colewt/graphsearch/gpu_sssp/aicp.pkl
+Pickle file size: 2.98 GB
+✅ Graph loaded. Nodes: 2528685, Edges: 5785149
+
+=== Graph Overview ===
+Total nodes: 2528685
+Total edges: 5785149
+Source in graph: True
+Target in graph: True
+Out-degree of source: 1
+In-degree of target: 1
+🚀 Starting GraphBLAS shortest path from RZAFRZXBKIOOTF-UHFFFAOYSA-M to MGEPMOSEZPNDPD-UHFFFAOYSA-N on full graph...
+Filtered out 736429 edges from high-degree hubs
+Edges DataFrame created: 5048720 rows
+   source  target
+0       0       1
+1       0      59
+2       0     114
+3       0     121
+4       0     184
+Graph has 2528685 nodes
+Start node index: 206062, Target node index: 2281737
+GraphBLAS Matrix created: 2528685 x 2528685, Edges: 5048720
+
+--- Step 1 ---
+Frontier nodes: [np.uint64(206062)]
+Visited so far: 1 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(206061)]
+End node in next frontier: False
+
+--- Step 2 ---
+Frontier nodes: [np.uint64(206061)]
+Visited so far: 2 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(461685)]
+End node in next frontier: False
+
+--- Step 3 ---
+Frontier nodes: [np.uint64(461685)]
+Visited so far: 3 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(461684)]
+End node in next frontier: False
+
+--- Step 4 ---
+Frontier nodes: [np.uint64(461684)]
+Visited so far: 4 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(1200719)]
+End node in next frontier: False
+
+--- Step 5 ---
+Frontier nodes: [np.uint64(1200719)]
+Visited so far: 5 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(1200718)]
+End node in next frontier: False
+
+--- Step 6 ---
+Frontier nodes: [np.uint64(1200718)]
+Visited so far: 6 nodes
+GraphBLAS: VXM result has 1 non-zero elements
+Next frontier after masking: [np.uint64(2281737)]
+End node in next frontier: True
+🎯 Target node found at step 6
+✅ Shortest path found in 0.2225s
+
+✅ Path found (length 6):
+RZAFRZXBKIOOTF-UHFFFAOYSA-M -> ASPIRE-5538967728025366022 -> AIAKTACBSLDTMI-UHFFFAOYSA-N -> ASPIRE-2858750896589076598 -> ONYZVBNSNBDUNG-UHFFFAOYSA-N -> ASPIRE-8173787983930312440 -> MGEPMOSEZPNDPD-UHFFFAOYSA-N
+🧪 Use this source/target for NetworkX comparison:
+source_node = "RZAFRZXBKIOOTF-UHFFFAOYSA-M"
+target_node = "MGEPMOSEZPNDPD-UHFFFAOYSA-N"
+Final memory stats:
+JobID            MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- 
+2367120                              00:00:44    RUNNING 
+2367120.bat+                         00:00:44    RUNNING 
+2367120.ext+                         00:00:44    RUNNING 
+/var/spool/slurm/d/job2367120/slurm_script: line 41: 326433 Terminated              log_memory $SLURM_JOB_ID
+Starting memory logging to memory_usage_2367776.log
+Final memory stats:
+JobID            MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- 
+2367776                              00:00:47    RUNNING 
+2367776.bat+                         00:00:47    RUNNING 
+2367776.ext+                         00:00:47    RUNNING 
+Starting memory logging to memory_usage_2367777.log
+Final memory stats:
+JobID            MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- 
+2367777                              00:00:45    RUNNING 
+2367777.bat+                         00:00:45    RUNNING 
+2367777.ext+                         00:00:45    RUNNING 

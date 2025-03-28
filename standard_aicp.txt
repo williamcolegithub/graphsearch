@@ -1,0 +1,50 @@
+Graph loaded successfully. Nodes: 2528685, Edges: 5785149
+
+Finding shortest path from RZAFRZXBKIOOTF-UHFFFAOYSA-M to MGEPMOSEZPNDPD-UHFFFAOYSA-N...
+✅ Shortest path found in 0.0005s
+
+Shortest path found (length: 6)
+Path: RZAFRZXBKIOOTF-UHFFFAOYSA-M -> ASPIRE-5538967728025366022 -> AIAKTACBSLDTMI-UHFFFAOYSA-N -> ASPIRE-2858750896589076598 -> ONYZVBNSNBDUNG-UHFFFAOYSA-N -> ASPIRE-8173787983930312440 -> MGEPMOSEZPNDPD-UHFFFAOYSA-N
+Time taken: 0.0005s
+
+Step 0:
+  Type: Substance
+  ID: RZAFRZXBKIOOTF-UHFFFAOYSA-M
+  Properties: {'canonical_smiles': '/kU0GAF3wvCmj0VP0BqplCz/O9sb7wh/JiVGOdUYDIfS93xPknL+lsB+y5lEE/ZKzglLjgW67hmg6izBknA=', 'inchikey': 'RZAFRZXBKIOOTF-UHFFFAOYSA-M', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'substance', 'uuid': 'substance_ed812e1afaf542aa9333bc954270983aa0a848b19e1a31fa0248d28e19169509'}
+  Relationship to next: {'edge_label': 'RZAFRZXBKIOOTF-UHFFFAOYSA-M|ASPIRE-5538967728025366022', 'edge_type': 'reactant_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'reactant_of_88c295fe3035d986acab06d6765505579a902c4e27a19685c61024a454864998'}
+
+Step 1:
+  Type: Reaction
+  ID: ASPIRE-5538967728025366022
+  Properties: {'is_balanced': False, 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'Reaction', 'rxid': 'ASPIRE-5538967728025366022', 'rxsmiles': 'ug4RWqMCHN8RzvzIGwT7hYvgleIJoa0P37GQRnUUPkvUuUJ8kME156gFw7KibsE5VOkfDHR23dn73H6XeSB9Gvl0F5I8a5LO5AME7u/2/pooz6WwdpdlV8i0thSvvUwj5oYgm9U/lq//b1G7RlFDF7jG/Oq9Q+D0R7Q023quN2zJotN/hRbtPMxu1dlIZNwBRfyjiT7si+ROaWGw6otQhw24GGjWuLiFz43pnIMCPkbJgDH2Ba6RHjbbueXkZQ5TtKhhXUi4JOENPheWFQIjJag+SvF5oh+9hsXl7DKF43WdA9ZbG2HK0/bgjhp0Ylg/WU24yUQYUECQiMPxBQh7mTLbTac3/ihPwlI4CLPGZb/oCo8XYa/z0s5URTRArA7gNx/f54+mwXTorHextkTsHJh6xnoFmrH7kSoactCoLP4c47CZwxAnmqPfMZRvHmRMNOAVdIHGBHtvmM6MoCqx6eA9EP2W3uuGrnGDdFleQG1fc++hBs/qAP8LwAJouUcBp4G82ZinfpfOcJTuRY5LaPg76Lwn3EbGr7FUM7mLMsxfmolWkKeS7Cv1L9sO051uTw==', 'uuid': 'reaction_fb04e1c7413093cd2e88d0c7e37173adf352728f1110f82a5ee0b786d9523af9', 'yield_predicted': 54.56499999999998, 'yield_score': 4.0}
+  Relationship to next: {'edge_label': 'ASPIRE-5538967728025366022|AIAKTACBSLDTMI-UHFFFAOYSA-N', 'edge_type': 'product_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'product_of_e3eee41e26aa3a4f18be779c277d13b36743a4870d8eddbc12b5e75f49988a8c'}
+
+Step 2:
+  Type: Substance
+  ID: AIAKTACBSLDTMI-UHFFFAOYSA-N
+  Properties: {'canonical_smiles': 'n6zwkflpFtkz/qj5vXEg4TwyJ6orog59PmZc3gykYxrs/nUCw9DdeIGvWuaQ+qXYwKwTd+46DKkFbLaCJfA4JzG5', 'inchikey': 'AIAKTACBSLDTMI-UHFFFAOYSA-N', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'substance', 'uuid': 'substance_2d83492bbd98dfcd1ad4fb01f229f84f8d41991c48ffbe719f3e4982c1ef3d1b'}
+  Relationship to next: {'edge_label': 'AIAKTACBSLDTMI-UHFFFAOYSA-N|ASPIRE-2858750896589076598', 'edge_type': 'reactant_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'reactant_of_8f772dd2b36dbc73508bf216d5602814604877b0287e62c1c9875418218a3a6a'}
+
+Step 3:
+  Type: Reaction
+  ID: ASPIRE-2858750896589076598
+  Properties: {'is_balanced': False, 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'Reaction', 'rxid': 'ASPIRE-2858750896589076598', 'rxsmiles': 'o4v3plUi8FbQQYC7MxWFBU28jqzKPRYsTZkXAWZwQdQDaKW7p0/j8Js/P61Gt4wKECcecJmeVLPFSTRop90a5H3CDKenZlaaUzFadu0FHc4oy7A8JZOqOxhKkbI6Ze3e/1itJQC/IKkhX96zZrKXWdhMRIHZ+MwCb6LTjiqejFd4sgUVTJebMT6VhGNZJz76z/VflQki92KvGTGBWjWSdEsAz1icrU32TvNcei4iTUImsm8N/621mevlg5zaHxSCe6C3Z7/N1GRBSk24mjbSAzcpYryZaEziEayAojkEwm9ZyaY7sx+/IW2gzyOh/5sJG7hn2csOaKn+Ixbb1XmlOhs4xoED/BQRqdU+6qurPsR2pAGfzBQXkORhRk183Ba4Dwumqu5r8lb5Wv8vLrZl5C4G35jzJIyJqwmAsTVr0btvST6rEljUtPrtmv0cLA==', 'uuid': 'reaction_373d4b84695cd3bd3d8f57f63eeef21b1d03ccb1e2999a4d1d6dbce1bd155101', 'yield_predicted': 76.30949999999999, 'yield_score': 2.0}
+  Relationship to next: {'edge_label': 'ASPIRE-2858750896589076598|ONYZVBNSNBDUNG-UHFFFAOYSA-N', 'edge_type': 'product_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'product_of_11bdcdd034afcce8318f8da37b9c14698e974edf2ec75d8f7b5d1399d1ae127d'}
+
+Step 4:
+  Type: Substance
+  ID: ONYZVBNSNBDUNG-UHFFFAOYSA-N
+  Properties: {'canonical_smiles': 'JecTBSy/l5/paACBAlUnlcwle9GVG4BMfGXFw+/CqUxmdgc4X7zabTXe6QBzjCjGZ9UyO6B81KE=', 'inchikey': 'ONYZVBNSNBDUNG-UHFFFAOYSA-N', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'substance', 'uuid': 'substance_65a57c3549b281e01ebbac1d14326bb4482878b734e53bc4bc65f03a5ce16887'}
+  Relationship to next: {'edge_label': 'ONYZVBNSNBDUNG-UHFFFAOYSA-N|ASPIRE-8173787983930312440', 'edge_type': 'reactant_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'reactant_of_f6dfc49642c97096607459d63c43e97f6376e3a928e344f5683fd711d2169e6e'}
+
+Step 5:
+  Type: Reaction
+  ID: ASPIRE-8173787983930312440
+  Properties: {'is_balanced': False, 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'Reaction', 'rxid': 'ASPIRE-8173787983930312440', 'rxsmiles': '+FHPyS/8QUfe7BaOfe668DZaRp8+yS99DthS4qJR0ER2/gW7LZ0ibXhq3q5OD5c0ER6YBTEVCztPPqTUnlic/exxVxGCCNokjiQgSI+X6wcorr2N6kevJqwUZNP4qbSyBWeLzeNVSeBUClozTXC5V39Hr0YiJ9AqSzUiSl0Y7GenOy+eFnNuyTAnrrbfmKdrREa8G0SNSfakozArQk03qcvhUtRbD/Hq9xmn5WQGwt6txEETGHI7wenTmGWSL5TgRmxkYfGML2pCUmLljQ5QBNaLMKl8MT0AJFE2OMo7pt8pkyy2jTLVQaBLt9YHQceHDCeygov1njzw4/TepvmMcfy3HYFUmvxA3RJS+gJ6ZaUklZZTlh+G5HRUpORsfvowM4mopEq+Y2Q144hlkw2S7ATgrEYuguhzHGDQNvX035Ggump6M8fS2xSuHO2t6dMhVR0OgudnTFPgH8fl571OtdFcvf+sW2LkHP+imRMt6dMZKA3hDNaHN7ASwaloggPsPIUECcsPcS6VDh/5Qu+A7bfKb57u7YyfU+m6SXLtq2fu5dI9K3nhQRgoDwGSXv6dzmpOWPcY09fm4QPvRe0NyPpUW0ECCX/cpF4r3RRubmNue6xeOjig6kCRZtttyyC7CRjfo+PiBY8BJYJJ3jK2VzEolrlAiaMsBCgNuG6VdQ==', 'uuid': 'reaction_aa91865e73af5dc8b4b5f82fef0cae20c8b1272a0d2b84da6e36740bc72d7ed1', 'yield_predicted': 42.21200000000003, 'yield_score': 5.0}
+  Relationship to next: {'edge_label': 'ASPIRE-8173787983930312440|MGEPMOSEZPNDPD-UHFFFAOYSA-N', 'edge_type': 'product_of', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'uuid': 'product_of_e4effea003548390169038a5579dddff560691569d941ec13ac4629fed771027'}
+
+Step 6:
+  Type: Substance
+  ID: MGEPMOSEZPNDPD-UHFFFAOYSA-N
+  Properties: {'canonical_smiles': 'H5/ELrje3wiQpTSx/gb0RganzqkkHjRgTRjfCizZWILqlAnUX8IaPdlmTXfz84EQi9/SrVSpJvdO0WC+BDulnzm45gFv0pUzgCQ=', 'inchikey': 'MGEPMOSEZPNDPD-UHFFFAOYSA-N', 'is_in_aicp': False, 'is_in_savi_130k': False, 'is_in_uspto_full': True, 'node_type': 'substance', 'uuid': 'substance_aadca26de4074445bc21612e5ab687357e8080bb46873e1536675c0df54d7ad4'}
+

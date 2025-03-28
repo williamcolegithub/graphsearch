@@ -1,0 +1,33 @@
+Loading graph from /home/colewt/graphsearch/gpu_sssp/aicp.pkl
+Pickle file size: 2.98 GB
+✅ Graph loaded. Nodes: 2528685, Edges: 5785149
+Memory usage of full graph (G): 3869.58 MB (type: DiGraph)
+
+=== Full Graph Overview ===
+Total nodes: 2528685
+Total edges: 5785149
+Source in graph: True
+Out-degree of source: 1
+Extracting subgraph neighborhood around RZAFRZXBKIOOTF-UHFFFAOYSA-M with depth 2
+Subgraph extracted. Nodes: 3, Edges: 2
+Memory usage of visited set: 0.00 MB (type: set)
+Memory usage of subgraph: 0.00 MB (type: DiGraph)
+Starting BFS traversal from RZAFRZXBKIOOTF-UHFFFAOYSA-M in subgraph
+Visiting node: RZAFRZXBKIOOTF-UHFFFAOYSA-M at level 0
+Memory usage of neighbors of RZAFRZXBKIOOTF-UHFFFAOYSA-M: 0.00 MB (type: list)
+Visiting node: ASPIRE-5538967728025366022 at level 1
+Memory usage of neighbors of ASPIRE-5538967728025366022: 0.00 MB (type: list)
+Visiting node: AIAKTACBSLDTMI-UHFFFAOYSA-N at level 2
+Memory usage of neighbors of AIAKTACBSLDTMI-UHFFFAOYSA-N: 0.00 MB (type: list)
+BFS completed. Visited 3 nodes
+Memory usage of visited set: 0.00 MB (type: set)
+Memory usage of queue (final): 0.00 MB (type: deque)
+Memory usage of levels dict: 0.00 MB (type: dict)
+
+=== BFS Results ===
+Source: RZAFRZXBKIOOTF-UHFFFAOYSA-M
+Nodes visited: 3
+First 10 visited nodes and levels:
+  RZAFRZXBKIOOTF-UHFFFAOYSA-M: Level 0
+  AIAKTACBSLDTMI-UHFFFAOYSA-N: Level 2
+  ASPIRE-5538967728025366022: Level 1
